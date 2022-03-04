@@ -1,0 +1,16 @@
+{
+  "name": "plutus",
+  "version": "1.0.0",
+  "description": "a really bad cryptocurrency",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Wolf220",
+  "license": "ISC",
+  "dependencies": {
+    "elliptic": "^6.5.4",
+    "inquirer": "^8.2.0",
+    "ws": "^8.5.0"
+  }
+}

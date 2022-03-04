@@ -1,0 +1,7 @@
+{
+	"port":3000,
+	"address":"ws://localhost:3000",
+	"publicKey":"put your public key here",
+	"privateKey":"put your private key here",
+	"peers":[]
+}
